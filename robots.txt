@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://commercialmortgagesbroker.github.io/cmb-bristol-2026-q2-01-bristol-github-pages/sitemap.xml
